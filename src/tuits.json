@@ -1,0 +1,61 @@
+
+{
+ "Mensajes": [
+    {
+      "_id": "61495d840bfa5ceca1afb2f4",
+      "author": "anonymous",
+      "content": "xd",
+      "date": "2021-09-21T04:20:20.182Z",
+      "type":"GIWEB JS",
+      "__v": 0
+    },
+    {
+      "_id": "614a42925f905b960ba90987",
+      "author": "Santiago",
+      "content": "Inicia proyecto GIWEB",
+      "date": "2021-09-21T20:37:38.448Z",
+      "type": "GIWEB",
+      "__v": 0
+    },
+    {
+      "_id": "614a42b65f905b960ba90989",
+      "author": "Santiago",
+      "content": "Ojala acabemos hoy con React",
+      "date": "2021-09-21T20:38:14.479Z",
+      "type": "GIWEB",
+      "__v": 0
+    },
+    {
+      "_id": "614a42de5f905b960ba9098b",
+      "author": "Santiago",
+      "content": "Pilas con el manejo de objetos",
+      "date": "2021-09-21T20:38:54.851Z",
+      "type": "GIWEB",
+      "__v": 0
+    },
+    {
+      "_id": "61538fddf753ef59056032f0",
+      "author": "Santiago H",
+      "content": "Envio datos desde clase",
+      "date": "2021-09-28T21:57:49.487Z",
+      "type": "GIWEB",
+      "__v": 0
+    },
+    {
+      "_id": "615393a2f753ef590560330f",
+      "author": "Santi H",
+      "content": "Envio datos desde clase 235",
+      "date": "2021-09-28T22:13:54.935Z",
+      "type": "GIWEB JS",
+      "__v": 0
+    },
+    {
+      "_id": "61539561f753ef5905603316",
+      "author": "Santi H",
+      "content": "Envio datos desde clase 235aa",
+      "date": "2021-09-28T22:21:21.839Z",
+      "type": "GIWEB JS",
+      "__v": 0
+    }
+  ]
+}
