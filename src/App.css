@@ -14,5 +14,8 @@ body {
 
 .App {
   text-align: center;
-  
+}
+
+.bread {
+  min-height: 35px;
 }

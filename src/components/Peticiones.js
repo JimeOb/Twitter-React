@@ -1,7 +1,7 @@
-import React, { Component,componentDidMount } from 'react'
+import React, { Component } from 'react'
 import Cartas from './Cartas';
 import Barra from './Navbar';
-import {Row,Form,Button} from 'react-bootstrap'
+import {Form,Button} from 'react-bootstrap'
 
 class Peticiones extends Component{
 
@@ -67,11 +67,11 @@ class Peticiones extends Component{
         
         return(
             <div>
-                <Barra array={this.state.twits}/>
+                <Barra twit={this.state.twits}/>
                 <Cartas twit ={this.state.twits} />
                 <br></br><br></br>
-                <div   style={{width:"400px" ,margin: "auto auto"}} >    
-                    <Form style={{border:"3px solid white"}}>
+                <div className="p-3 mb-2 bg-white text-dark"  style={{width:"400px" ,margin: "auto auto"}} >    
+                    <Form>
                         <Form.Group className="mb-3" controlId="formBasicEmail">
                             <Form.Label>Nombre</Form.Label>
                             <Form.Control required size ="lg" placeholder="Ingrese su nombre" onChange={this.handleChangeNombre} />

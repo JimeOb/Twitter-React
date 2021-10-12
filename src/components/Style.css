@@ -1,6 +1,13 @@
-.color{ 
-    color: blue;    
+.color {
+  color: blue;
 }
-.border1{
-    border: 3px solid aquamarine;
+.border1 {
+  border: 3px solid aquamarine;
+}
+.dib {
+  min-height: 65px;
+}
+
+.cartas {
+  bottom-margin: 10px;
 }
